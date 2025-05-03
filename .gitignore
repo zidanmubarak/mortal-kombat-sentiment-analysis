@@ -1,0 +1,6 @@
+# Virtual Environment
+.venv
+
+# Ignore all CSV files except app_reviews.csv
+*.csv
+!app_reviews.csv
