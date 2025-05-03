@@ -136,17 +136,3 @@ jupyter notebook
 ## Kontribusi
 
 Silakan berkontribusi dengan membuat pull request atau melaporkan issues.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat file LICENSE untuk detail lebih lanjut.
-
-## Author
-
-[Nama Anda]
-
-## Acknowledgments
-
-- Google Play Store untuk data ulasan
-- Komunitas NLP Indonesia untuk referensi kamus sentimen
-- Sastrawi library untuk stemming Bahasa Indonesia
