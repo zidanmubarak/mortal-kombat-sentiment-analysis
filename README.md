@@ -59,8 +59,9 @@ Ada dua cara untuk menggunakan notebook di Google Colab:
 #### Metode 1: Langsung dari GitHub
 
 1. Klik link notebook berikut:
-   - [app_scraper.ipynb](link_ke_colab_scraper)
-   - [analisis_sentiment.ipynb](link_ke_colab_analisis)
+    - [app_scraper.ipynb](https://colab.research.google.com/github/zidanmubarak/mortal-kombat-sentiment-analysis/blob/main/app_scraper.ipynb)
+    - [analisis_sentiment.ipynb](https://colab.research.google.com/github/zidanmubarak/mortal-kombat-sentiment-analysis/blob/main/analisis_sentiment.ipynb)
+
 2. Klik tombol "Open in Colab" yang muncul di notebook
 3. Simpan copy notebook ke Google Drive Anda dengan klik "File > Save a copy in Drive"
 4. Install dependencies dengan menjalankan cell berikut:
@@ -99,7 +100,7 @@ Ada dua cara untuk menggunakan notebook di Google Colab:
 1. Clone repository ini:
 
 ```bash
-git clone [URL_REPOSITORY]
+git clone https://github.com/zidanmubarak/mortal-kombat-sentiment-analysis.git
 ```
 
 2. Buat virtual environment (opsional tapi direkomendasikan):
